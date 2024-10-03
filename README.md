@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Branch Operations Analysis and Optimization** is a comprehensive project designed to analyze and optimize the performance of multiple branches within a fictional company. This project showcases the ability to research, evaluate, and translate large datasets into actionable business insights using a variety of tools and technologies, including SQL, Microsoft Excel, VBA, and Power BI.
+**Branch Operations Analysis and Optimization** is a comprehensive project designed to analyze and optimize the performance of multiple branches within a fictional company. This project showcases the ability to research, evaluate, and translate large datasets into actionable business insights using a variety of tools and technologies, including Microsoft Excel, VBA, and Power BI.
 
 ## Table of Contents
 
