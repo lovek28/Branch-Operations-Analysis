@@ -15,25 +15,22 @@
 
 ## Project Structure
 
-Branch-Operations-Analysis/ ├── data/ │ ├── raw_data.xlsx ├── excel/ │ ├── analysis.xlsx │ ├── powerbi/ │ └── Branch_Operations_Report.pbix
+Branch-Operations-Analysis/ 
+├── data/
+      ├── raw_data.xlsx 
+├── excel/
+      ├── analysis.xlsx │ 
+├── powerbi/
+      └── Branch_Operations_Report.pbix
 
 
 ### Folder Descriptions
 
 - **data/**: Contains SQL scripts for database setup, the Python script to generate synthetic data, and the resulting `raw_data.xlsx` file.
-  
-- **sql/**: Houses SQL queries used for data extraction and analysis.
-  
+    
 - **excel/**: Includes the Excel workbook (`analysis.xlsx`) for data analysis with embedded VBA macros (`macros.bas`).
   
 - **powerbi/**: Contains the Power BI report file (`Branch_Operations_Report.pbix`) for data visualization.
-  
-- **docs/**: Provides documentation including the executive summary (`Executive_Summary.docx`), recommendations presentation (`Recommendations.pptx`), and supporting diagrams (`Process_Diagram.png`).
-  
-- **README.md**: This file, providing an overview and instructions for the project.
-  
-- **LICENSE**: The project's open-source license (MIT License).
-
 ---
 
 ## Features
